@@ -1,0 +1,11 @@
+[package]
+name = "crates_pet"
+version = "0.1.0"
+authors = ["Moghees Bin Zahid"]
+edition = "2018"
+description="You can use this crate by entering following lines in main.rs files: 'extern crate crates_pet','crates_pet::pet::name::print_name()'"
+license="MIT"
+repository="https://github.com/Moghees1560/Rust-lib"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
